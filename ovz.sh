@@ -224,8 +224,6 @@ chmod +x speedtest_cli.py
 chmod +x ps_mem.py
 chmod +x user-login.sh
 chmod +x user-expired.sh
-chmod +x user-limit.sh
-chmod +x limit.sh
 
 # cron
 service crond start
